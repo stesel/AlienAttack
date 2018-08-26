@@ -1,7 +1,0 @@
-﻿<?xml version="1" encoding="utf-8"?>
-
-<levels>	
-	<level1 enemyCount = "20" enemyInt = "1500" enemySpeed = "7" health = "5"></level1>	
-	<level2 enemyCount = "25" enemyInt = "1300" enemySpeed = "8" health = "6"></level2>	
-	<level3 enemyCount = "30" enemyInt = "1000" enemySpeed = "9" health = "7"></level3>	
-</levels>
